@@ -1,0 +1,9 @@
+{
+    "name":"autoscaling-ticketapp",
+    "version": "1.0.0",
+    "author":"jameschik",
+    "dependencies": {
+        "express": "4.18.1"
+    }
+
+}
